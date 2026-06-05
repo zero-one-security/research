@@ -1,0 +1,8 @@
+variable,value,unit,year,tier,source_url
+active_businesses,656500,businesses,2026,primary,https://www.ssb.no/virksomheter-foretak-og-regnskap/virksomheter-og-foretak
+businesses_with_employees,207800,businesses,2026,primary,https://www.ssb.no/virksomheter-foretak-og-regnskap/virksomheter-og-foretak
+nonlife_premium,94.7,bn_nok,2024,primary,https://www.finansnorge.no/artikler/2025/02/markedsstatistikk-for-skadeforsikring-fjerde-kvartal-2024/
+global_cyber_premium,168.3,bn_nok,2024,primary,https://www.morganlewis.com/blogs/sourcingatmorganlewis/2025/10/cybersecurity-insurance-a-burgeoning-global-market
+norway_gdp_share,0.0048,ratio,2024,primary,https://www.imf.org
+benchmark_penetration_ge10,0.3798,ratio,2022,secondary,https://teknorge.no/wp-content/uploads/CYBERSIKKERHET-NORDISK-BENCHMARK.pdf
+avg_premium,25000,nok,2024,assumption,model/penetration.py

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Zero One Security — Open Research"
+message: "If you use this research or its data, please cite it as below."
+type: dataset
+authors:
+  - name: "Zero One Security"
+repository-code: "https://github.com/zero-one-security/research"
+url: "https://github.com/zero-one-security/research"
+license: CC-BY-4.0
+date-released: "2026-06-05"
