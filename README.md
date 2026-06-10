@@ -16,6 +16,15 @@ log is the audit trail.
 - [`norwegian-cyber-insurance/`](norwegian-cyber-insurance/) — how many Norwegian
   businesses carry cyber insurance. Working estimate: ~38% of businesses with
   employees (2024), triangulated from public primary data.
+- [`norwegian-incident-costs/`](norwegian-incident-costs/) — what a serious
+  Norwegian cyber incident costs, from the public record: the NOK 2m Storting
+  fine, AKVA group (~NOK 49.7m), and Norsk Hydro (~NOK 800m).
+- [`norwegian-fraud-losses/`](norwegian-fraud-losses/) — social-engineering loss
+  across the Norwegian financial system in 2024: NOK 667m, the sum of two
+  published Finanstilsynet half-year figures.
+- [`phishing-resistant-authentication/`](phishing-resistant-authentication/) —
+  the evidence base for phishing-resistant authentication: the NSM
+  recommendation, Microsoft's passkey-speed figure, and BankID adoption.
 
 ## How to cite
 

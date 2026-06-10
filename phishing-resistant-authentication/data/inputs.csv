@@ -1,0 +1,5 @@
+variable,value,unit,year,tier,source_url
+passkey_speed_vs_password_mfa,8,x_faster,2025,vendor,https://www.microsoft.com/en-us/security/blog/2025/05/01/pushing-passkeys-forward-microsofts-latest-updates-for-simpler-safer-sign-ins/
+bankid_users,4.7,million_people,2026,secondary,https://fidoalliance.org/fido-webinar-the-spectrum-of-authentication-how-bankid-norway-unifies-passkeys-biometric-liveness/
+bankid_population_share,0.97,ratio,2026,secondary,https://fidoalliance.org/fido-webinar-the-spectrum-of-authentication-how-bankid-norway-unifies-passkeys-biometric-liveness/
+nsm_phishing_resistant_recommendation,recommended,qualitative,,primary,https://nsm.no/getfile.php/1314181-1734004986/NSM/Filer/Dokumenter/Rapporter/NSM%20Flerfaktorautentisering%20temarapport.pdf

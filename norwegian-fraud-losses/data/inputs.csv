@@ -1,0 +1,4 @@
+variable,value,unit,year,tier,source_url
+social_eng_loss_h1_2024,360,m_nok,2024,primary,https://www.finanstilsynet.no/publikasjoner-og-analyser/svindel-og-svindelstatistikk/2024/h1/svindelstatistikk-forste-halvar-2024/
+social_eng_loss_h2_2024,307,m_nok,2024,primary,https://www.finanstilsynet.no/publikasjoner-og-analyser/svindel-og-svindelstatistikk/2024/h2/svindelstatistikk-andre-halvar-2024
+social_eng_loss_2024_total,667,m_nok,2024,derived,model:sum(h1,h2)

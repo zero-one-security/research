@@ -1,0 +1,4 @@
+variable,value,unit,year,tier,source_url
+storting_fine,2,m_nok,2022,primary,https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/avgjorelser-fra-datatilsynet/2022/overtredelsesgebyr-til-stortinget/
+akva_incident_cost,49.7,m_nok,2021,secondary,https://www.tu.no/artikler/cyberangrep-kostet-akva-group-naer-50-millioner-kroner/509982
+hydro_incident_cost,800,m_nok,2019,primary,https://www.hydro.com/en/global/media/on-the-agenda/cyber-attack/
