@@ -28,6 +28,9 @@ it.
 - **Frequency framing forbidden:** do not claim small firms are hit most often;
   the survey shows the opposite by raw count. Use preparedness, underreporting
   (only 24 % reported), and disproportionate consequence.
-- **Nordlo appeal status:** the 28.09.2023 judgment is the cited primary; confirm
-  no reversing appeal before final publication (a 2025 "Btec v. Nordlo" document
-  exists in the trail and must be checked).
+- **Nordlo appeal status — checked 2026-06-19:** the 2025 "Btec v. Nordlo"
+  document is a SEPARATE case (Btec AS v Nordlo, THOS-2024-65519, dom 20.06.2025),
+  not an appeal of the cited 28.09.2023 judgment. Same court reached the same
+  result (Nordlo frifunnet; Btec awarded 8 280 kr and ordered to pay Nordlo's
+  costs of 2 152 570 kr), which corroborates the principle. The cited 2023
+  judgment stands.
